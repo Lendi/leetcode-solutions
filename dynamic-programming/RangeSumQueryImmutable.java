@@ -25,7 +25,7 @@ public class NumArray {
 
       for(int i = 1; i < nums.length;i++)
         {
-          dp[i] += nums[i] + dp[i-1];
+          dp[i] = nums[i] + dp[i-1];
         }
       }
     }
