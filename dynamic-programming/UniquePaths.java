@@ -11,10 +11,10 @@ Start -> |_|_|_|_|_|_|_|
 
 
 Above is a 7 x 3 grid. How many possible unique paths are there?
-
 Note: m and n will be at most 100.
 
 Example 1:
+
 
 Input: m = 3, n = 2
 Output: 3
